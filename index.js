@@ -1,6 +1,7 @@
 var animal = ""
 
 function myAnimal() {
+  const animal = 'dog';
   return animal
 }
 
